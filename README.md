@@ -23,4 +23,4 @@ This guide outlines the deployment of a Node.js application onto an AWS EC2 inst
 - Set up the required environment variables within a `.env` file on the VM.
 - Start the application, confirming successful deployment.
 
-The application is now live on AWS EC2, marking a milestone in efficient and scalable web application deployment.
+The application is deployed on AWS EC2, marking a milestone in efficient and scalable web application deployment.
